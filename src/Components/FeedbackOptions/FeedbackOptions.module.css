@@ -1,0 +1,16 @@
+.buttonFeedback {
+  margin-right: 15px;
+    background: white;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.buttonFeedback:hover {
+  background-color: rgb(74, 74, 238);
+  box-shadow: 2px 3px 2px lightslategray;
+}
